@@ -1,11 +1,11 @@
 ## Hi there 👋
 
+🔭 I’m currently a freelance data scientist! Check out my [Upwork][https://www.upwork.com/freelancers/~019542e98be069f3fc] profile! <br/>
 <!--
 **vishal5498/vishal5498** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-🔭 I’m currently a freelance data scientist! Check out my [Upwork][https://www.upwork.com/freelancers/~019542e98be069f3fc] profile! <br/>
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
