@@ -2,6 +2,7 @@
 
 👨🏼‍🎓 Studied MSc Data Science at the University of Bristol 🇬🇧 and BE Information Science at MSRIT 🇮🇳 <br/>
 🔭 I’m currently a freelance data scientist and a tutor! Check out my [Upwork profile](https://www.upwork.com/freelancers/~019542e98be069f3fc)! <br/>
+🧑🏼‍💻 Ex-Business Data Analyst, Full-Stack Dev
 🌱 I’m currently learning Hadoop and Kubernetes! <br/>
 📊 Expertise in Data Science, Data Visualisation and Machine Learning. <br/>
 ⚡ Fun fact: I was part of developing an Formula 1 simulator 🏎️ <br/>
